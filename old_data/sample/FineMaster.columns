@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"FineID","INTEGER","5","5","0"
+"IssueID","INTEGER","5","5","0"
+"FineReason","STRING","13","0","0"
+"FixedFinePerDay","INTEGER","1","1","0"
+"Multiple","INTEGER","4","4","0"
+"FixedFine","INTEGER","1","1","0"
+"TotalFine","INTEGER","3","3","0"

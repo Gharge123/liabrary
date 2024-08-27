@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","STRING","0","0","0"
+"ACSNno","STRING","0","0","0"
+"Title","STRING","0","0","0"
+"Author_1","STRING","0","0","0"
+"Price","STRING","0","0","0"
+"Source","STRING","0","0","0"
+"Source_detail","STRING","0","0","0"

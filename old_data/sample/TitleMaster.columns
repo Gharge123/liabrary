@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"SrNo","INTEGER","1","1","0"
+"College","STRING","0","0","0"
+"Title","STRING","0","0","0"
+"Qty","INTEGER","5","5","0"

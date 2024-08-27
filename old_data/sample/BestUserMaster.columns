@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"SrNo","INTEGER","3","3","0"
+"MemCardNo","STRING","10","0","0"
+"Name","STRING","36","0","0"
+"STD","STRING","7","0","0"
+"Rollno","STRING","4","0","0"
+"Qty","INTEGER","2","2","0"

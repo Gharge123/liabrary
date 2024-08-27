@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"Sr_no","STRING","0","0","0"
+"binder_name","STRING","0","0","0"
+"binder_address","STRING","0","0","0"

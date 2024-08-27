@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"Location_No","STRING","0","0","0"
+"Location_Place","STRING","0","0","0"
+"Location_Remark","STRING","0","0","0"

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"SrNo","STRING","0","0","0"
+"RecNo","STRING","0","0","0"
+"AccNo","STRING","0","0","0"
+"Title","STRING","0","0","0"
+"Author","STRING","0","0","0"
+"Subject","STRING","0","0","0"
+"SUB_CODE","STRING","0","0","0"

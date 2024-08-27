@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"FineReasonID","STRING","0","0","0"
+"FineReason","STRING","0","0","0"
+"FixedFinePerDay","STRING","0","0","0"
+"Multiple","STRING","0","0","0"
+"FixedFine","STRING","0","0","0"
+"TotalFine","STRING","0","0","0"

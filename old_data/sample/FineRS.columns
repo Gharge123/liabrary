@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"FineRS","INTEGER","1","1","0"
+"FineRsRef","INTEGER","1","1","0"
+"DueDaysFacultyRef","INTEGER","1","1","0"
+"DueDaysStudentRef","INTEGER","1","1","0"
+"DueDaysGuestRef","INTEGER","1","1","0"

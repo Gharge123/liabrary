@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"MemberID","STRING","0","0","0"
+"Class","STRING","0","0","0"
+"MemberName","STRING","0","0","0"
+"OutDate","STRING","0","0","0"
+"OutTime","STRING","0","0","0"
+"CUser","STRING","0","0","0"
+"Status","STRING","0","0","0"

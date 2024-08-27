@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"Srno","STRING","0","0","0"
+"ACSNno","STRING","0","0","0"
+"Title","STRING","0","0","0"

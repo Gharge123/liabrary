@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"Orderno","STRING","0","0","0"
+"ACSNno","STRING","0","0","0"
+"Title","STRING","0","0","0"
+"Binder_name","STRING","0","0","0"
+"Amount","STRING","0","0","0"
+"Remark","STRING","0","0","0"
